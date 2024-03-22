@@ -12,14 +12,14 @@ I created our own dataset for this project, containing information about various
 
 ## Code
 
-The code for this project can be found in the `car_type_prediction.ipynb` notebook file. I used Python programming language along with libraries such as pandas, scikit-learn, and matplotlib for data manipulation, model training, and visualization.
+The code for this project can be found in the `Car-type prediction.ipynb` notebook file. I used Python programming language along with libraries such as pandas, scikit-learn, and matplotlib for data manipulation, model training, and visualization.
 
 ## Usage
 
 To use this project:
 
 1. Clone the repository to your local machine.
-2. Open the `day-3-of-ml-bootcamp-supervised-learning.ipynb` notebook using Jupyter Notebook or any other compatible environment.
+2. Open the `Car-type prediction.ipynb` notebook using Jupyter Notebook or any other compatible environment.
 3. Follow the instructions in the notebook to train the model and make predictions.
 
 ## Contribution
