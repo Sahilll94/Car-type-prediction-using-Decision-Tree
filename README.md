@@ -1,6 +1,6 @@
 # Car Type Prediction
 
-This project aims to predict the type of cars using supervised learning techniques. It utilizes parameters like car horsepower and number of seats to classify cars into categories such as Super-car, SUV, Sedan, etc.
+This project aims to predict the type of cars using supervised learning techniques. It utilizes parameters like car horsepower and number of seats to classify cars into categories such as Super-car, SUV,etc.
 
 ## Overview
 
